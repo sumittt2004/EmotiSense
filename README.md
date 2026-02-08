@@ -5,11 +5,6 @@
 **EmotiSense** is a real-time emotion detection system that uses computer vision and facial landmark analysis to infer human emotions from live webcam input. The project is designed for **learning, demonstration, and portfolio use**, with a strong focus on explainable AI and clean system design.
 
 ---
-## 🌐 Live Demo
-
-**[🚀 Try EmotiSense Live](https://emotisense-ai.streamlit.app)** - No installation required!
-
----
 
 ## 🚀 Features
 
